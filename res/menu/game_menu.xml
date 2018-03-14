@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/item1"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:title="New Game">
+    </item>
+    <item
+        android:id="@+id/item2"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:title="Back To Main Menu">
+    </item>
+
+</menu>
